@@ -16,3 +16,5 @@ used in the program, namely: nltk, BeautifulSoup4, pandas, collections. If not, 
 install it from the command prompt using the following command:
 
 pip install packagename
+
+#### Check Report.pdf for a detailed description
